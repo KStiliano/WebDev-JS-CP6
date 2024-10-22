@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/KStiliano/WebDev-JS-CP6/static/js/main.3e1b0a34.js",
+    "static/js/787.750a4a54.chunk.js": "/KStiliano/WebDev-JS-CP6/static/js/787.750a4a54.chunk.js",
+    "static/media/sacola.svg": "/KStiliano/WebDev-JS-CP6/static/media/sacola.a1f2af1cb32c08ae75c7b23485161cbe.svg",
+    "static/media/perfil.svg": "/KStiliano/WebDev-JS-CP6/static/media/perfil.d459471fbeda60d7f2a433b0f6b660de.svg",
+    "index.html": "/KStiliano/WebDev-JS-CP6/index.html",
+    "static/media/logo.svg": "/KStiliano/WebDev-JS-CP6/static/media/logo.9c54b187c810fdc3ecca29269446898f.svg",
+    "main.3e1b0a34.js.map": "/KStiliano/WebDev-JS-CP6/static/js/main.3e1b0a34.js.map",
+    "787.750a4a54.chunk.js.map": "/KStiliano/WebDev-JS-CP6/static/js/787.750a4a54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3e1b0a34.js"
+  ]
+}
